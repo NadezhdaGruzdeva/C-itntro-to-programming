@@ -1,0 +1,15 @@
+C:\Users\Nadezhda\Desktop\Geek Brains\C# введение в программирование\C# Lesson 1 ex 3\bin\Debug\net6.0\C# Lesson 1 ex 3.exe
+C:\Users\Nadezhda\Desktop\Geek Brains\C# введение в программирование\C# Lesson 1 ex 3\bin\Debug\net6.0\C# Lesson 1 ex 3.deps.json
+C:\Users\Nadezhda\Desktop\Geek Brains\C# введение в программирование\C# Lesson 1 ex 3\bin\Debug\net6.0\C# Lesson 1 ex 3.runtimeconfig.json
+C:\Users\Nadezhda\Desktop\Geek Brains\C# введение в программирование\C# Lesson 1 ex 3\bin\Debug\net6.0\C# Lesson 1 ex 3.dll
+C:\Users\Nadezhda\Desktop\Geek Brains\C# введение в программирование\C# Lesson 1 ex 3\bin\Debug\net6.0\C# Lesson 1 ex 3.pdb
+C:\Users\Nadezhda\Desktop\Geek Brains\C# введение в программирование\C# Lesson 1 ex 3\obj\Debug\net6.0\C# Lesson 1 ex 3.csproj.AssemblyReference.cache
+C:\Users\Nadezhda\Desktop\Geek Brains\C# введение в программирование\C# Lesson 1 ex 3\obj\Debug\net6.0\C# Lesson 1 ex 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nadezhda\Desktop\Geek Brains\C# введение в программирование\C# Lesson 1 ex 3\obj\Debug\net6.0\C# Lesson 1 ex 3.AssemblyInfoInputs.cache
+C:\Users\Nadezhda\Desktop\Geek Brains\C# введение в программирование\C# Lesson 1 ex 3\obj\Debug\net6.0\C# Lesson 1 ex 3.AssemblyInfo.cs
+C:\Users\Nadezhda\Desktop\Geek Brains\C# введение в программирование\C# Lesson 1 ex 3\obj\Debug\net6.0\C# Lesson 1 ex 3.csproj.CoreCompileInputs.cache
+C:\Users\Nadezhda\Desktop\Geek Brains\C# введение в программирование\C# Lesson 1 ex 3\obj\Debug\net6.0\C# Lesson 1 ex 3.dll
+C:\Users\Nadezhda\Desktop\Geek Brains\C# введение в программирование\C# Lesson 1 ex 3\obj\Debug\net6.0\refint\C# Lesson 1 ex 3.dll
+C:\Users\Nadezhda\Desktop\Geek Brains\C# введение в программирование\C# Lesson 1 ex 3\obj\Debug\net6.0\C# Lesson 1 ex 3.pdb
+C:\Users\Nadezhda\Desktop\Geek Brains\C# введение в программирование\C# Lesson 1 ex 3\obj\Debug\net6.0\C# Lesson 1 ex 3.genruntimeconfig.cache
+C:\Users\Nadezhda\Desktop\Geek Brains\C# введение в программирование\C# Lesson 1 ex 3\obj\Debug\net6.0\ref\C# Lesson 1 ex 3.dll
