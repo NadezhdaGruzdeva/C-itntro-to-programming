@@ -13,6 +13,6 @@ Console.WriteLine("Enter Y of point 2");
 int y2 = int.Parse(Console.ReadLine());
 
 double Rasst = Math.Sqrt((Math.Pow((x1-x2),2) + Math.Pow((y1-y2),2)));
-Console.WriteLine($"Раастояние между точками = {Rasst}");
+Console.WriteLine($"Раастояние между точками = {Rasst:f2}"); //f2 -round to 2 figgires after ","
 
 
