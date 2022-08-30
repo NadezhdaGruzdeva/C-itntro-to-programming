@@ -16,10 +16,10 @@ int [] array (int lengthArray, int startDiapasonInclArray, int endDiaposonExclAr
 Console.WriteLine ("Enter length of array ");
 int length = int.Parse(Console.ReadLine());
 
-Console.WriteLine ("Enter start of array values diaposon ");
+Console.WriteLine ("Enter start of value range ");
 int startArray = int.Parse(Console.ReadLine());
 
-Console.WriteLine ("Enter end of array values diaposon ");
+Console.WriteLine ("Enter end of value range ");
 int endArray = int.Parse(Console.ReadLine());
 
-Console.WriteLine($"Array: {String.Join(" ,", array(length, startArray, endArray))}");
+Console.WriteLine($"Array: {String.Join(", ", array(length, startArray, endArray))}");

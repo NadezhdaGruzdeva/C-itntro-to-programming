@@ -19,5 +19,5 @@ int numberA = int.Parse(Console.ReadLine());
 Console.WriteLine ("Enter number B ");
 int numberB = int.Parse(Console.ReadLine());
 
-Console.WriteLine($"Result is {exponentiation(numberA, numberB)}");
+Console.WriteLine($"Number {numberA} to the power of {numberB} is {exponentiation(numberA, numberB)}");
 
