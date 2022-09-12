@@ -1,4 +1,4 @@
-﻿// генерация массива c семинара
+﻿// генерация массива RandomValues
 int[] GetArray (int size, int minValue, int maxValue)
 {
     int [] res = new int [size];
@@ -7,6 +7,17 @@ int[] GetArray (int size, int minValue, int maxValue)
         res[i] = new Random().Next(minValue, maxValue+1);
     }
     return res;
+}
+
+// генерация массива manual input Values
+int[] GetArray (int sizeGetArray)
+{
+    int [] arrayGetArray = new int [sizeGetArray];
+    for (int i = 0; i < sizeGetArray; i++)
+    {
+        arrayGetArray[i] = new Random().Next(minValue, maxValue+1);
+    }
+    return arrayGetArray;
 }
 
 //Задом наперед - требует доп опер памяти для нового массива
@@ -105,26 +116,30 @@ void PrintArray(int[,] matr)
 {
     for (int i = 0; i < matr.GetLength(0); i++)
     {
-    for (int j = 0; j < matr.GetLength(1); j++)
-    {
-        Console.Write($"{matr[i, j]} ");
-    }
+        for (int j = 0; j < matr.GetLength(1); j++)
+        {
+            Console.Write($"{matr[i, j]}\t");
+        }
     Console.WriteLine();
     }
 }
 
 //Fill arrray 2x
-void FillArray (int[,] matr)
+int[,] GetArray(int rowQtyGetArray, int columnQtyGetArray, int minValueGetArray, int maxValueGetArray)
 {
-    for (int i = 0; i < matr.GetLength(0); i++)
+    int[,] result = new int[rowQtyGetArray, columnQtyGetArray];
+    
+    for (int i = 0; i < rowQtyGetArray; i++)
     {
-        for (int j = 0; j < matr.GetLength(1); j++)
+        for (int j = 0; j < columnQtyGetArray; j++)
         {
-            matr[i,j] = new Random().Next(1,10); //[1;10)
+            result[i, j] = new Random().Next(minValueGetArray, maxValueGetArray + 1);
         }
-        Console.WriteLine();
     }
+
+    return result;
 }
+
 //Сортировка от макс к мин
 void SelectionSort(int[] array)
 {
