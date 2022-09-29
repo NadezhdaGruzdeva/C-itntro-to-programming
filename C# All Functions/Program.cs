@@ -1,12 +1,13 @@
 ﻿// генерация массива RandomValues
 int[] GetArray (int size, int minValue, int maxValue)
 {
-    int [] res = new int [size];
-    for (int i = 0; i < size; i++)
+    int [] arrayGetArray = new int [sizeGetArray];
+    for (int i = 0; i < sizeGetArray; i++)
     {
-        res[i] = new Random().Next(minValue, maxValue+1);
+        Console.Write($"Enter {i} value : ");
+        arrayGetArray[i] = int.Parse(Console.ReadLine());
     }
-    return res;
+    return arrayGetArray;
 }
 
 // генерация массива manual input Values
@@ -71,7 +72,7 @@ int ConsoleInputNumber(int indexFrom1ConsoleInputNumber)
 //Перевод десятичного числа в бинарное
 string TransferToBinar(int valueTransferToDvoichnoe)
 {
-    string BinaryNumTransferToBinar = String.Empty;
+    string [] BinaryNumTransferToBinar = String.Empty;
 
     while (valueTransferToDvoichnoe > 0)
     {
